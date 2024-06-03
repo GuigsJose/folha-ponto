@@ -1,0 +1,6 @@
+@FolhaPontoApi_HostAddress = http://localhost:5219
+
+GET {{FolhaPontoApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
